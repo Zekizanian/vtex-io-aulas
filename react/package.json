@@ -1,0 +1,11 @@
+{
+  "name": "aventuraio",
+  "version": "1.0.0",
+  "description": "aulasvtex",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
